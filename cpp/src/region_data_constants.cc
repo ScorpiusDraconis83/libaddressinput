@@ -183,7 +183,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C %X",)"
       R"("require":"ACZ",)"
       R"("zipex":"97100",)"
-      R"("posturl":"http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",)"
+      R"("posturl":"https://www.laposte.fr/outils/trouver-un-code-postal",)"
       R"("languages":"fr")"
       "}"},
   {"BM", "{"
@@ -195,7 +195,7 @@ const RegionData kRegionData[] = {
   {"BN", "{"
       R"("fmt":"%N%n%O%n%A%n%C %Z",)"
       R"("zipex":"BT2328,KA1131,BA1511",)"
-      R"("posturl":"http://www.post.gov.bn/SitePages/postcodes.aspx",)"
+      R"("posturl":"http://webapps.mtic.gov.bn/SitePages/Post/postcode.aspx",)"
       R"("languages":"ms~ms-Arab")"
       "}"},
   {"BO", "{"
@@ -242,7 +242,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%N%n%O%n%A%n%C %S %Z",)"
       R"("require":"ACSZ",)"
       R"("zipex":"H3Z 2Y7,V8X 3X4,T0L 1K0,T0H 1A0,K1A 0B1",)"
-      R"("posturl":"https://www.canadapost.ca/cpo/mc/personal/postalcode/fpc.jsf",)"
+      R"("posturl":"https://www.canadapost-postescanada.ca/cpo/mc/personal/postalcode/fpc.jsf",)"
       R"("languages":"en~fr")"
       "}"},
   {"CC", "{"
@@ -276,7 +276,6 @@ const RegionData kRegionData[] = {
   {"CL", "{"
       R"("fmt":"%N%n%O%n%A%n%Z %C%n%S",)"
       R"("zipex":"8340457,8720019,1230000,8329100",)"
-      R"("posturl":"https://www.correos.cl/web/guest/codigo-postal",)"
       R"("languages":"es")"
       "}"},
   {"CM", "{"
@@ -288,7 +287,7 @@ const RegionData kRegionData[] = {
       R"("require":"ACSZ",)"
       R"("sublocality_name_type":"district",)"
       R"("zipex":"266033,317204,100096,100808",)"
-      R"("posturl":"http://www.ems.com.cn/serviceguide/you_bian_cha_xun.html",)"
+      R"("posturl":"http://cpdc.chinapost.com.cn/web/",)"
       R"("languages":"zh")"
       "}"},
   {"CO", "{"
@@ -384,7 +383,7 @@ const RegionData kRegionData[] = {
   {"EG", "{"
       R"("fmt":"%N%n%O%n%A%n%C%n%S%n%Z",)"
       R"("lfmt":"%N%n%O%n%A%n%C%n%S%n%Z",)"
-      R"("zipex":"12411,11599",)"
+      R"("zipex":"4460232,5734356",)"
       R"("languages":"ar")"
       "}"},
   {"EH", "{"
@@ -442,7 +441,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C",)"
       R"("require":"ACZ",)"
       R"("zipex":"33380,34092,33506",)"
-      R"("posturl":"http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",)"
+      R"("posturl":"https://www.laposte.fr/outils/trouver-un-code-postal",)"
       R"("languages":"fr")"
       "}"},
   {"GA", "{"
@@ -469,7 +468,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C %X",)"
       R"("require":"ACZ",)"
       R"("zipex":"97300",)"
-      R"("posturl":"http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",)"
+      R"("posturl":"https://www.laposte.fr/outils/trouver-un-code-postal",)"
       R"("languages":"fr")"
       "}"},
   {"GG", "{"
@@ -506,7 +505,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C %X",)"
       R"("require":"ACZ",)"
       R"("zipex":"97100",)"
-      R"("posturl":"http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",)"
+      R"("posturl":"https://www.laposte.fr/outils/trouver-un-code-postal",)"
       R"("languages":"fr")"
       "}"},
   {"GQ", "{"
@@ -611,7 +610,7 @@ const RegionData kRegionData[] = {
       R"("languages":"en~gv")"
       "}"},
   {"IN", "{"
-      R"("fmt":"%N%n%O%n%A%n%F%n%L%n%C %Z%n%S",)"
+      R"("fmt":"%N%n%O%n%A%n%T%n%F%n%L%n%C %Z%n%S",)"
       R"("require":"ACSZ",)"
       R"("zip_name_type":"pin",)"
       R"("state_name_type":"state",)"
@@ -629,7 +628,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%C, %S%n%Z",)"
       R"("require":"ACS",)"
       R"("zipex":"31001",)"
-      R"("languages":"ar~ckb~az-Arab")"
+      R"("languages":"ar")"
       "}"},
   {"IR", "{"
       R"("fmt":"%O%n%N%n%S%n%C, %D%n%A%n%Z",)"
@@ -738,7 +737,7 @@ const RegionData kRegionData[] = {
   {"KZ", "{"
       R"("fmt":"%Z%n%S%n%C%n%A%n%O%n%N",)"
       R"("zipex":"040900,050012",)"
-      R"("languages":"ru~kk")"
+      R"("languages":"kk~ru")"
       "}"},
   {"LA", "{"
       R"("fmt":"%N%n%O%n%A%n%Z %C",)"
@@ -787,7 +786,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%nL-%Z %C",)"
       R"("require":"ACZ",)"
       R"("zipex":"4750,2998",)"
-      R"("posturl":"https://www.post.lu/fr/grandes-entreprises/solutions-postales/rechercher-un-code-postal",)"
+      R"("posturl":"https://www.post.lu/en/particuliers/colis-courrier/rechercher-un-code-postal",)"
       R"("languages":"fr~lb~de")"
       "}"},
   {"LV", "{"
@@ -879,7 +878,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C %X",)"
       R"("require":"ACZ",)"
       R"("zipex":"97220",)"
-      R"("posturl":"http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",)"
+      R"("posturl":"https://www.laposte.fr/outils/trouver-un-code-postal",)"
       R"("languages":"fr")"
       "}"},
   {"MR", "{"
@@ -972,7 +971,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C",)"
       R"("require":"ACZ",)"
       R"("zipex":"1234 AB,2490 AA",)"
-      R"("posturl":"http://www.postnl.nl/voorthuis/",)"
+      R"("posturl":"https://www.postnl.nl/en/find-a-postcode/",)"
       R"("languages":"nl~fy")"
       "}"},
   {"NO", "{"
@@ -1104,7 +1103,7 @@ const RegionData kRegionData[] = {
       R"("fmt":"%O%n%N%n%A%n%Z %C %X",)"
       R"("require":"ACZ",)"
       R"("zipex":"97400",)"
-      R"("posturl":"http://www.laposte.fr/Particulier/Utiliser-nos-outils-pratiques/Outils-et-documents/Trouvez-un-code-postal",)"
+      R"("posturl":"https://www.laposte.fr/outils/trouver-un-code-postal",)"
       R"("languages":"fr")"
       "}"},
   {"RO", "{"
@@ -1226,7 +1225,7 @@ const RegionData kRegionData[] = {
   {"SV", "{"
       R"("fmt":"%N%n%O%n%A%n%Z-%C%n%S",)"
       R"("require":"ACS",)"
-      R"("zipex":"CP 1101",)"
+      R"("zipex":"1101",)"
       R"("languages":"es")"
       "}"},
   {"SX", "{"
@@ -1302,6 +1301,8 @@ const RegionData kRegionData[] = {
       R"("languages":"tr")"
       "}"},
   {"TT", "{"
+      R"("fmt":"%N%n%O%n%A%n%C%n%Z",)"
+      R"("zipex":"500234",)"
       R"("languages":"en")"
       "}"},
   {"TV", "{"
@@ -1363,8 +1364,8 @@ const RegionData kRegionData[] = {
   {"UZ", "{"
       R"("fmt":"%N%n%O%n%A%n%Z %C%n%S",)"
       R"("zipex":"702100,700000",)"
-      R"("posturl":"http://www.pochta.uz/ru/uslugi/indexsearch.html",)"
-      R"("languages":"uz~uz-Cyrl")"
+      R"("posturl":"https://uz.post/ru/mening-pochta-indeksim",)"
+      R"("languages":"uz~ru")"
       "}"},
   {"VA", "{"
       R"("fmt":"%N%n%O%n%A%n%Z %C",)"
@@ -1374,7 +1375,6 @@ const RegionData kRegionData[] = {
   {"VC", "{"
       R"("fmt":"%N%n%O%n%A%n%C %Z",)"
       R"("zipex":"VC0100,VC0110,VC0400",)"
-      R"("posturl":"http://www.svgpost.gov.vc/?option=com_content&view=article&id=3&Itemid=16",)"
       R"("languages":"en")"
       "}"},
   {"VE", "{"
@@ -1382,7 +1382,6 @@ const RegionData kRegionData[] = {
       R"("require":"ACS",)"
       R"("state_name_type":"state",)"
       R"("zipex":"1010,3001,8011,1020",)"
-      R"("posturl":"http://postcode.vnpost.vn/services/search.aspx",)"
       R"("languages":"es")"
       "}"},
   {"VG", "{"
@@ -1404,7 +1403,6 @@ const RegionData kRegionData[] = {
       R"("fmt":"%N%n%O%n%A%n%C%n%S %Z",)"
       R"("lfmt":"%N%n%O%n%A%n%C%n%S %Z",)"
       R"("zipex":"70010,55999",)"
-      R"("posturl":"http://postcode.vnpost.vn/services/search.aspx",)"
       R"("languages":"vi")"
       "}"},
   {"VU", "{"
